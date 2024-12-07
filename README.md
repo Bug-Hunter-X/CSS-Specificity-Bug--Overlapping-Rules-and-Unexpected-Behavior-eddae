@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon CSS bug related to specificity. The bug arises when multiple CSS rules with different selectors apply to the same element and has unexpected consequences due to the way browsers handle specificity. The solution illustrates how to resolve this issue.
